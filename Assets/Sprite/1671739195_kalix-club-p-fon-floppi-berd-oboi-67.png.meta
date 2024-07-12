@@ -1,0 +1,1460 @@
+fileFormatVersion: 2
+guid: 02f1cd560ffa1ea499f8421a5bab7e9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4682493139907373992
+    second: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_0
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 469
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 469, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56481358381f41e4fabdf96c0617d16c
+      internalID: 4682493139907373992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_1
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 652
+        width: 548
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b57555e1a3ce404e958df2b110fd588
+      internalID: 877976307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_2
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 319
+        width: 170
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: -34.5}
+        - {x: -81, y: -34.5}
+        - {x: -81, y: -40.5}
+        - {x: -78, y: -40.5}
+        - {x: -78, y: -44.5}
+        - {x: -72, y: -44.5}
+        - {x: -72, y: -47.5}
+        - {x: 72, y: -47.5}
+        - {x: 72, y: -44.5}
+        - {x: 78, y: -44.5}
+        - {x: 78, y: -39.5}
+        - {x: 82, y: -39.5}
+        - {x: 82, y: -34.5}
+        - {x: 85, y: -34.5}
+        - {x: 85, y: 34.5}
+        - {x: 82, y: 34.5}
+        - {x: 82, y: 40.5}
+        - {x: 78, y: 40.5}
+        - {x: 78, y: 43.5}
+        - {x: 72, y: 43.5}
+        - {x: 72, y: 47.5}
+        - {x: -72, y: 47.5}
+        - {x: -72, y: 43.5}
+        - {x: -78, y: 43.5}
+        - {x: -78, y: 40.5}
+        - {x: -81, y: 40.5}
+        - {x: -81, y: 34.5}
+        - {x: -85, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fffd792511fb404684e4f6a00b9fdb9
+      internalID: 181869525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_3
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 368
+        width: 139
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: -23.5}
+        - {x: 66.5, y: -23.5}
+        - {x: 66.5, y: 22.5}
+        - {x: -63.5, y: 22.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167044bab756af2409c7c1d455bc867b
+      internalID: -1095719581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_4
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 319
+        width: 130
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce4a19b24f4c6f4ea5ca5712ce626b5
+      internalID: -1354849087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_5
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 334
+        width: 84
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 223}
+        - {x: -38, y: 223}
+        - {x: -39, y: -260}
+        - {x: 39, y: -260}
+        - {x: 38, y: 223}
+        - {x: 42, y: 223}
+        - {x: 42, y: 261}
+        - {x: -42, y: 261}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10b7c8b234957a4e80fbb1e049f3aee
+      internalID: 2114364898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_6
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 234
+        width: 313
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.5, y: 30.5}
+        - {x: -149.5, y: 30.5}
+        - {x: -149.5, y: 27.5}
+        - {x: -153.12341, y: 27.214294}
+        - {x: -153.5, y: 24.5}
+        - {x: -156.5, y: 24.5}
+        - {x: -156.5, y: -24.5}
+        - {x: -153.5, y: -24.5}
+        - {x: -153.5, y: -27.5}
+        - {x: -149.5, y: -27.5}
+        - {x: -149.5, y: -30.5}
+        - {x: -146.5, y: -30.5}
+        - {x: -146.5, y: -34.5}
+        - {x: 78.5, y: -34.5}
+        - {x: 78.5, y: -30.5}
+        - {x: 81.5, y: -30.5}
+        - {x: 81.5, y: -27.5}
+        - {x: 85.5, y: -27.5}
+        - {x: 85.5, y: -24.5}
+        - {x: 88.5, y: -24.5}
+        - {x: 88.5, y: -27.5}
+        - {x: 91.5, y: -27.5}
+        - {x: 91.5, y: -30.5}
+        - {x: 94.5, y: -30.5}
+        - {x: 94.5, y: -34.5}
+        - {x: 114.5542, y: -34.5}
+        - {x: 114.5, y: -21.5}
+        - {x: 117.5, y: -21.5}
+        - {x: 117.5, y: -34.5}
+        - {x: 143.5, y: -34.5}
+        - {x: 143.5, y: -8.5}
+        - {x: 156.5, y: -8.5}
+        - {x: 156.5, y: 21.5}
+        - {x: 127.5, y: 21.5}
+        - {x: 127.5, y: 17.5}
+        - {x: 124.5, y: 17.5}
+        - {x: 124.5, y: 21.5}
+        - {x: 120.5, y: 21.5}
+        - {x: 120.5, y: 24.5}
+        - {x: 117.5, y: 24.5}
+        - {x: 117.5, y: 27.5}
+        - {x: 94.5, y: 27.5}
+        - {x: 94.5, y: 24.5}
+        - {x: 91.5, y: 24.5}
+        - {x: 91.5, y: 21.5}
+        - {x: 62.5, y: 21.5}
+        - {x: 62.5, y: 24.5}
+        - {x: 58.5, y: 24.5}
+        - {x: 58.5, y: 27.5}
+        - {x: 55.5, y: 27.5}
+        - {x: 55.5, y: 30.5}
+        - {x: 52.5, y: 30.5}
+        - {x: 52.5, y: 34.5}
+        - {x: 29.5, y: 34.5}
+        - {x: 29.5, y: 30.5}
+        - {x: 26.5, y: 30.5}
+        - {x: 26.5, y: 27.5}
+        - {x: 22.5, y: 27.5}
+        - {x: 22.5, y: 24.5}
+        - {x: 19.5, y: 24.5}
+        - {x: 19.5, y: -24.5}
+        - {x: 22.5, y: -24.5}
+        - {x: 22.5, y: -27.5}
+        - {x: 26.5, y: -27.5}
+        - {x: 26.5, y: -30.5}
+        - {x: 29.5, y: -30.5}
+        - {x: 29.5, y: -34.5}
+        - {x: -9.5, y: -34.5}
+        - {x: -9.5, y: -21.5}
+        - {x: 3.5, y: -21.5}
+        - {x: 3.5, y: 14.5}
+        - {x: 0.5, y: 14.5}
+        - {x: 0.5, y: 21.5}
+        - {x: -3.5, y: 21.5}
+        - {x: -3.5, y: 24.5}
+        - {x: -6.5, y: 24.5}
+        - {x: -6.5, y: 27.5}
+        - {x: -29.5, y: 27.5}
+        - {x: -29.5, y: 24.5}
+        - {x: -32.5, y: 24.5}
+        - {x: -32.5, y: 21.5}
+        - {x: -114.5, y: 21.5}
+        - {x: -114.5, y: 34.5}
+        - {x: -146.5, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216b91820b3c4944f872c723fe73baf4
+      internalID: -1967363818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_7
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 254
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8438894e5f9d24f8a1aaabb1d24e49
+      internalID: -145658439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_8
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 286
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df70ba5cc76d6b42a2a1a8191377a14
+      internalID: 503059631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_9
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 286
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef49de86b2eec2428b2f74521b0d749
+      internalID: 462333025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_10
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 257
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e6462a10ae0714bb6cfd81ea62f0be
+      internalID: -849131227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_11
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 257
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa1f46f06d24324bb7a6b53d1c2d509
+      internalID: -244627934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_12
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 286
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -4.5}
+        - {x: 0, y: -4.5}
+        - {x: 0, y: -11.5}
+        - {x: 10, y: -11.5}
+        - {x: 10, y: 11.5}
+        - {x: -10, y: 11.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d76dd726c0e1341a70180d26a49b89
+      internalID: 482325365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_13
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 286
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2afa3390f945e46907d22d07c69769
+      internalID: -22684369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_14
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 286
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb471ac5080f064081e57f0b24ea306
+      internalID: -1041708432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_15
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 257
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6323bb206fc7548bfc8d168bed9682
+      internalID: 2014773727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_16
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 257
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 1.5}
+        - {x: -0.5, y: 1.5}
+        - {x: -0.5, y: -11.5}
+        - {x: 9.5, y: -11.5}
+        - {x: 9.5, y: 11.5}
+        - {x: -9.5, y: 11.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d1c225afc48364380f998892af32bc
+      internalID: -1363290294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_17
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 257
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6232351a4920443bf737044bcfa0b0
+      internalID: 398614385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_18
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 433
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c6551287a90e04ba99540c365163a2
+      internalID: 1067703183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_19
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 463
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.763977, y: 32.32959}
+        - {x: -15.626038, y: 32.41278}
+        - {x: -15.806824, y: 29.644531}
+        - {x: -22.928467, y: 29.602173}
+        - {x: -22.928406, y: 26.42633}
+        - {x: -25.891113, y: 26.419067}
+        - {x: -25.920227, y: 22.468262}
+        - {x: -28.78247, y: 22.448853}
+        - {x: -28.864075, y: 16.375854}
+        - {x: -31.649048, y: 16.31842}
+        - {x: -31.90863, y: 9.481018}
+        - {x: -36, y: 9.3012085}
+        - {x: -36, y: -9.74231}
+        - {x: -31.830688, y: -9.54483}
+        - {x: -31.900146, y: -16.430511}
+        - {x: -28.84961, y: -16.26886}
+        - {x: -28.903992, y: -22.236542}
+        - {x: -25.9375, y: -22.305817}
+        - {x: -25.987427, y: -26.374664}
+        - {x: -22.918396, y: -26.365845}
+        - {x: -22.796143, y: -29.414093}
+        - {x: -15.88678, y: -29.356995}
+        - {x: -15.817444, y: -32.25992}
+        - {x: -9.666687, y: -32.287903}
+        - {x: -9.703674, y: -35.387543}
+        - {x: 9.8220215, y: -35.5}
+        - {x: 9.739624, y: -32.426056}
+        - {x: 16.74054, y: -32.35138}
+        - {x: 16.70996, y: -29.409424}
+        - {x: 22.678162, y: -29.378601}
+        - {x: 22.615173, y: -26.25476}
+        - {x: 25.700562, y: -26.187103}
+        - {x: 25.7182, y: -22.30478}
+        - {x: 29.701538, y: -22.127472}
+        - {x: 29.608643, y: -16.304077}
+        - {x: 32.759033, y: -16.142426}
+        - {x: 32.699158, y: -9.294952}
+        - {x: 35.82361, y: -9.368774}
+        - {x: 36, y: 9.248413}
+        - {x: 32.806763, y: 9.343231}
+        - {x: 32.82794, y: 16.450256}
+        - {x: 29.807373, y: 16.547546}
+        - {x: 29.828918, y: 22.524841}
+        - {x: 25.713501, y: 22.534729}
+        - {x: 25.775024, y: 26.67987}
+        - {x: 22.674255, y: 26.667114}
+        - {x: 22.63678, y: 29.421692}
+        - {x: 17.078491, y: 29.354614}
+        - {x: 16.767822, y: 32.260193}
+        - {x: 9.769714, y: 32.34619}
+        - {x: 9.77417, y: 35.5}
+        - {x: -9.866638, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ce9a8236ed7f04c9052f3fad917f05
+      internalID: 2056634628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_20
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 541
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.840881, y: 31.857666}
+        - {x: -15.720947, y: 31.943542}
+        - {x: -15.922058, y: 28.703796}
+        - {x: -22.86554, y: 28.72284}
+        - {x: -22.947815, y: 25.919006}
+        - {x: -26.312866, y: 25.764038}
+        - {x: -26.241394, y: 22.99231}
+        - {x: -29.111633, y: 22.790405}
+        - {x: -28.986877, y: 15.796143}
+        - {x: -31.756226, y: 15.695007}
+        - {x: -31.840698, y: 9.6345215}
+        - {x: -36, y: 9.439148}
+        - {x: -36, y: -9.766235}
+        - {x: -32.04962, y: -9.919556}
+        - {x: -32.16742, y: -16.950012}
+        - {x: -29.19812, y: -16.914185}
+        - {x: -29.162842, y: -22.960205}
+        - {x: -25.941406, y: -22.903564}
+        - {x: -25.836548, y: -25.754883}
+        - {x: -23.07788, y: -25.733582}
+        - {x: -22.868591, y: -29.709473}
+        - {x: -15.817139, y: -29.765259}
+        - {x: -15.856628, y: -32.861084}
+        - {x: -9.953674, y: -32.890015}
+        - {x: -9.881836, y: -36}
+        - {x: 9.606628, y: -35.714478}
+        - {x: 9.76709, y: -32.69861}
+        - {x: 16.715576, y: -32.685364}
+        - {x: 16.66565, y: -29.72107}
+        - {x: 22.869629, y: -29.804504}
+        - {x: 22.694214, y: -26.214417}
+        - {x: 26.128479, y: -26.230042}
+        - {x: 26.318848, y: -22.91504}
+        - {x: 29.815735, y: -22.750427}
+        - {x: 29.894775, y: -16.996826}
+        - {x: 32.707092, y: -16.986267}
+        - {x: 32.843018, y: -9.7456665}
+        - {x: 36, y: -9.685303}
+        - {x: 36, y: 10.024963}
+        - {x: 33.210876, y: 10.00708}
+        - {x: 33.2417, y: 16.181213}
+        - {x: 30.473572, y: 16.14331}
+        - {x: 29.909546, y: 22.866394}
+        - {x: 26.356201, y: 22.79602}
+        - {x: 25.671997, y: 23.287598}
+        - {x: 25.560425, y: 25.601318}
+        - {x: 22.817383, y: 25.777222}
+        - {x: 22.676392, y: 28.634827}
+        - {x: 16.684631, y: 28.808228}
+        - {x: 16.615662, y: 31.63263}
+        - {x: 9.810059, y: 31.846558}
+        - {x: 9.717041, y: 36}
+        - {x: -9.326782, y: 36}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329535c2f64e57a4691ab6ad951479f3
+      internalID: -1984584609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_21
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 554
+        width: 300
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2131d6deb8d354ab0182e0a880181d
+      internalID: 1403251951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_22
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 45
+        width: 369
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -184.5, y: -80}
+        - {x: -180.5, y: -80}
+        - {x: -180.5, y: -86}
+        - {x: -177.5, y: -86}
+        - {x: -177.5, y: -90}
+        - {x: -170.5, y: -90}
+        - {x: -170.5, y: -93}
+        - {x: 171.5, y: -93}
+        - {x: 171.5, y: -90}
+        - {x: 178.5, y: -90}
+        - {x: 178.5, y: -86}
+        - {x: 181.5, y: -86}
+        - {x: 181.5, y: -80}
+        - {x: 184.5, y: -80}
+        - {x: 184.5, y: 80}
+        - {x: 181.5, y: 80}
+        - {x: 181.5, y: 86}
+        - {x: 178.5, y: 86}
+        - {x: 178.5, y: 90}
+        - {x: 171.5, y: 90}
+        - {x: 171.5, y: 93}
+        - {x: -170.5, y: 93}
+        - {x: -170.5, y: 90}
+        - {x: -177.5, y: 90}
+        - {x: -177.5, y: 86}
+        - {x: -180.5, y: 86}
+        - {x: -180.5, y: 80}
+        - {x: -184.5, y: 80}
+      physicsShape:
+      - - {x: -170.5, y: 90}
+        - {x: -177.5, y: 90}
+        - {x: -177.5, y: 86}
+        - {x: -180.5, y: 86}
+        - {x: -180.5, y: 80}
+        - {x: -184.5, y: 80}
+        - {x: -184.5, y: -79}
+        - {x: -180.5, y: -80}
+        - {x: -180.5, y: -86}
+        - {x: -177.5, y: -86}
+        - {x: -177.5, y: -90}
+        - {x: -170.5, y: -90}
+        - {x: -170.5, y: -93}
+        - {x: 171.5, y: -93}
+        - {x: 171.48181, y: -89.61926}
+        - {x: 178.5, y: -90}
+        - {x: 178.5, y: -86}
+        - {x: 181.5, y: -86}
+        - {x: 181.5, y: -80}
+        - {x: 184.5, y: -80}
+        - {x: 184.5, y: 80}
+        - {x: 181.5, y: 80}
+        - {x: 181.5, y: 86}
+        - {x: 178.5, y: 86}
+        - {x: 178.5, y: 90}
+        - {x: 171.5, y: 90}
+        - {x: 171.5, y: 93}
+        - {x: -170.5, y: 93}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400fd3d2279ca494a92f9eb57d310746
+      internalID: 448330707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_23
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 515
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53932d0580856b4e8d0c54b59bac17c
+      internalID: -1175464128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_24
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 371
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.723145, y: 32.924377}
+        - {x: -15.965454, y: 32.97458}
+        - {x: -16.066162, y: 28.97519}
+        - {x: -22.87207, y: 29.00769}
+        - {x: -22.918823, y: 26.303314}
+        - {x: -25.922852, y: 26.214294}
+        - {x: -25.88562, y: 23.13556}
+        - {x: -28.90332, y: 23.160797}
+        - {x: -28.817993, y: 16.261017}
+        - {x: -32.894653, y: 16.267578}
+        - {x: -32.794067, y: 10.246613}
+        - {x: -36, y: 10.394104}
+        - {x: -36, y: -9.73526}
+        - {x: -32.8656, y: -9.851776}
+        - {x: -32.88379, y: -15.898315}
+        - {x: -28.94873, y: -15.909302}
+        - {x: -28.942139, y: -22.734192}
+        - {x: -26.069946, y: -22.971863}
+        - {x: -26.103394, y: -26.30133}
+        - {x: -22.757324, y: -26.098389}
+        - {x: -22.830078, y: -28.994293}
+        - {x: -15.69043, y: -28.876587}
+        - {x: -15.679321, y: -32.124634}
+        - {x: -9.914185, y: -32.097046}
+        - {x: -9.840698, y: -36}
+        - {x: 9.6397705, y: -36}
+        - {x: 9.661133, y: -31.82077}
+        - {x: 15.791016, y: -31.72052}
+        - {x: 15.945679, y: -28.913055}
+        - {x: 22.749023, y: -28.963593}
+        - {x: 22.843384, y: -26.15747}
+        - {x: 25.920044, y: -26.153198}
+        - {x: 25.9552, y: -22.861237}
+        - {x: 29.432861, y: -22.699738}
+        - {x: 29.404053, y: -16.131378}
+        - {x: 33.19519, y: -16.023163}
+        - {x: 33.424316, y: -9.970612}
+        - {x: 36, y: -9.936737}
+        - {x: 36, y: 10.111816}
+        - {x: 32.846436, y: 10.336792}
+        - {x: 32.779663, y: 15.862152}
+        - {x: 28.888306, y: 15.93808}
+        - {x: 28.903076, y: 22.822693}
+        - {x: 26.102295, y: 22.98935}
+        - {x: 26.23108, y: 26.001556}
+        - {x: 23.026733, y: 25.872192}
+        - {x: 23.201172, y: 28.985046}
+        - {x: 16.172607, y: 29.004059}
+        - {x: 16.369507, y: 33.135986}
+        - {x: 9.622192, y: 33.04944}
+        - {x: 9.679565, y: 36}
+        - {x: -9.6397705, y: 36}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ad4355aa5cb424cadddb8352abcc80
+      internalID: 1970198116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_25
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 293
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.005615, y: 32.26718}
+        - {x: -16.033813, y: 32.205566}
+        - {x: -16.095337, y: 29.241089}
+        - {x: -22.807007, y: 29.163544}
+        - {x: -22.858398, y: 26.149689}
+        - {x: -25.961426, y: 26.126007}
+        - {x: -25.992432, y: 23.153961}
+        - {x: -28.904297, y: 23.126373}
+        - {x: -29.154053, y: 16.045074}
+        - {x: -33.075317, y: 16.038635}
+        - {x: -33.117188, y: 9.840424}
+        - {x: -36, y: 9.87915}
+        - {x: -36, y: -9.5672}
+        - {x: -32.811646, y: -9.856689}
+        - {x: -32.924194, y: -15.644043}
+        - {x: -28.95337, y: -15.951263}
+        - {x: -29.039062, y: -23.00943}
+        - {x: -25.847168, y: -22.881256}
+        - {x: -25.905884, y: -26.063965}
+        - {x: -22.954712, y: -25.910889}
+        - {x: -22.909912, y: -29.83548}
+        - {x: -16.143188, y: -29.983337}
+        - {x: -16.09143, y: -32.864807}
+        - {x: -10.063965, y: -32.869965}
+        - {x: -9.99231, y: -36}
+        - {x: 10.090088, y: -36}
+        - {x: 10.114502, y: -33.03598}
+        - {x: 15.650391, y: -32.905334}
+        - {x: 15.88562, y: -29.935944}
+        - {x: 22.610352, y: -29.851715}
+        - {x: 22.82251, y: -25.83551}
+        - {x: 26.064331, y: -25.883698}
+        - {x: 26.079468, y: -22.911102}
+        - {x: 28.798462, y: -22.90445}
+        - {x: 28.971191, y: -15.990784}
+        - {x: 32.818848, y: -15.813171}
+        - {x: 32.812378, y: -9.74646}
+        - {x: 36, y: -9.73291}
+        - {x: 36, y: 9.903168}
+        - {x: 32.83557, y: 9.905853}
+        - {x: 32.992676, y: 15.971954}
+        - {x: 29.011719, y: 16.127838}
+        - {x: 28.821777, y: 23.00769}
+        - {x: 25.814941, y: 22.954407}
+        - {x: 25.759644, y: 26.184906}
+        - {x: 23.13379, y: 26.075867}
+        - {x: 23.023071, y: 29.161652}
+        - {x: 16.018677, y: 29.178528}
+        - {x: 15.877686, y: 32.21585}
+        - {x: 9.70752, y: 32.17343}
+        - {x: 9.676636, y: 36}
+        - {x: -9.99231, y: 36}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed58e42bc8f991b4fa42820ee9eb8f6d
+      internalID: 2122090519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_26
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 218
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16.5}
+        - {x: -15, y: 16.5}
+        - {x: -15, y: 13.5}
+        - {x: -18, y: 13.5}
+        - {x: -18, y: 9.5}
+        - {x: -24, y: 9.5}
+        - {x: -24, y: 6.5}
+        - {x: -28, y: 6.622986}
+        - {x: -28, y: -3.5}
+        - {x: -24, y: -3.5}
+        - {x: -24, y: -6.5}
+        - {x: -21, y: -6.5}
+        - {x: -21, y: -13.5}
+        - {x: -18, y: -13.5}
+        - {x: -18, y: -16.5}
+        - {x: -11, y: -16.5}
+        - {x: -11, y: -19.5}
+        - {x: 5, y: -19.5}
+        - {x: 5, y: -16.5}
+        - {x: 21, y: -16.5}
+        - {x: 21, y: -13.5}
+        - {x: 25, y: -13.5}
+        - {x: 25, y: -6.5}
+        - {x: 28, y: -6.5}
+        - {x: 28, y: -3.5}
+        - {x: 25, y: -3.5}
+        - {x: 25, y: 0.5}
+        - {x: 21, y: 0.5}
+        - {x: 21, y: 9.5}
+        - {x: 18, y: 9.5}
+        - {x: 18, y: 13.5}
+        - {x: 15, y: 13.5}
+        - {x: 15, y: 16.5}
+        - {x: 11, y: 16.5}
+        - {x: 11, y: 19.5}
+        - {x: -8, y: 19.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eeeb621046550c43bb82063608c097d
+      internalID: 1499163200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_27
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 133
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16.5}
+        - {x: -15, y: 16.5}
+        - {x: -15, y: 13.5}
+        - {x: -18, y: 13.5}
+        - {x: -18, y: 10.5}
+        - {x: -21, y: 10.5}
+        - {x: -21, y: 6.5}
+        - {x: -24, y: 6.5}
+        - {x: -24, y: 0.5}
+        - {x: -28, y: 0.5}
+        - {x: -28, y: -6.5}
+        - {x: -24, y: -6.5}
+        - {x: -24, y: -9.5}
+        - {x: -21, y: -9.5}
+        - {x: -21, y: -12.5}
+        - {x: -18, y: -12.5}
+        - {x: -18, y: -16.5}
+        - {x: -11, y: -16.5}
+        - {x: -11, y: -19.5}
+        - {x: 5.006836, y: -19.5}
+        - {x: 5, y: -16.5}
+        - {x: 21, y: -16.5}
+        - {x: 21, y: -12.5}
+        - {x: 25, y: -12.5}
+        - {x: 25, y: -6.5}
+        - {x: 28, y: -6.5}
+        - {x: 28, y: -3.5}
+        - {x: 25, y: -3.5}
+        - {x: 25, y: 0.5}
+        - {x: 21, y: 0.5}
+        - {x: 21, y: 10.5}
+        - {x: 18, y: 10.5}
+        - {x: 18, y: 13.5}
+        - {x: 15, y: 13.5}
+        - {x: 15, y: 16.5}
+        - {x: 11, y: 16.5}
+        - {x: 11, y: 19.5}
+        - {x: -8, y: 19.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd77934b4c191945aa92cc5547a7e5c
+      internalID: -2037446413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_28
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 48
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16.5}
+        - {x: -15, y: 16.5}
+        - {x: -15, y: 13.5}
+        - {x: -18, y: 13.5}
+        - {x: -18, y: 10.5}
+        - {x: -21, y: 10.5}
+        - {x: -21, y: 6.5}
+        - {x: -24, y: 6.5}
+        - {x: -24, y: -2.5}
+        - {x: -28, y: -2.5}
+        - {x: -28, y: -12.5}
+        - {x: -24, y: -12.5}
+        - {x: -24, y: -15.5}
+        - {x: -11, y: -15.5}
+        - {x: -11, y: -19.5}
+        - {x: 5, y: -19.5}
+        - {x: 5, y: -15.5}
+        - {x: 21, y: -15.5}
+        - {x: 21, y: -12.5}
+        - {x: 25, y: -12.5}
+        - {x: 25, y: -6.5}
+        - {x: 28, y: -6.5}
+        - {x: 28, y: -2.5}
+        - {x: 25, y: -2.5}
+        - {x: 25, y: 0.5}
+        - {x: 21, y: 0.5}
+        - {x: 21, y: 10.5}
+        - {x: 18, y: 10.5}
+        - {x: 18, y: 13.5}
+        - {x: 15, y: 13.5}
+        - {x: 15, y: 16.5}
+        - {x: 11, y: 16.5}
+        - {x: 11.079468, y: 19.5}
+        - {x: -8, y: 19.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21c3f51bc4790341bd1cda220a695fa
+      internalID: 283886998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_29
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 136
+        width: 290
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 126.33978, y: 39.084976}
+        - {x: 126.35895, y: 22.189331}
+        - {x: 119.29419, y: 22.223694}
+        - {x: 119.27673, y: 19.160126}
+        - {x: 116.351074, y: 19.143448}
+        - {x: 116.28058, y: 16.183685}
+        - {x: 112.66113, y: 16.078888}
+        - {x: 112.64282, y: 22.134796}
+        - {x: 90.29578, y: 22.223633}
+        - {x: 90.279724, y: 19.236847}
+        - {x: 87.21588, y: 19.35936}
+        - {x: 87.073975, y: 16.16603}
+        - {x: 82.67798, y: 16.079102}
+        - {x: 82.577515, y: 26.212128}
+        - {x: 66.57654, y: 26.062393}
+        - {x: 66.66229, y: 29.082718}
+        - {x: 63.545044, y: 29.152405}
+        - {x: 63.650574, y: 32.109802}
+        - {x: 60.549255, y: 32.142868}
+        - {x: 60.74109, y: 35.252}
+        - {x: 56.69214, y: 35.33992}
+        - {x: 56.737427, y: 39.5}
+        - {x: 31.363403, y: 39.5}
+        - {x: 31.020325, y: 26.36023}
+        - {x: -0.64489746, y: 26.14647}
+        - {x: -0.8096924, y: 16.223495}
+        - {x: -5.380188, y: 16.170273}
+        - {x: -5.460083, y: 19.139206}
+        - {x: -11.464111, y: 19.169678}
+        - {x: -11.396851, y: 22.235275}
+        - {x: -33.698486, y: 22.350342}
+        - {x: -33.743347, y: 16.224182}
+        - {x: -37.439514, y: 16.159927}
+        - {x: -37.341675, y: 19.192688}
+        - {x: -44.282227, y: 19.18338}
+        - {x: -44.396362, y: 22.302383}
+        - {x: -89.79047, y: 22.562286}
+        - {x: -89.82495, y: 19.696991}
+        - {x: -93.55817, y: 19.69165}
+        - {x: -93.366516, y: 16.16243}
+        - {x: -96.348816, y: 16.23642}
+        - {x: -96.32654, y: 39.177353}
+        - {x: -134.53754, y: 39.457474}
+        - {x: -134.8359, y: 35.233032}
+        - {x: -137.86563, y: 35.37236}
+        - {x: -137.89276, y: 32.508514}
+        - {x: -141.9903, y: 32.52652}
+        - {x: -141.90375, y: 29.239304}
+        - {x: -145, y: 29.321594}
+        - {x: -145, y: -26.017899}
+        - {x: -125.103455, y: -26.352264}
+        - {x: -125.239685, y: -3.185501}
+        - {x: -115.66937, y: -3.3750458}
+        - {x: -115.9411, y: -26.260498}
+        - {x: -96.22815, y: -26.06279}
+        - {x: -96.401794, y: -19.229233}
+        - {x: -92.6264, y: -19.211533}
+        - {x: -92.65607, y: -22.327438}
+        - {x: -89.7088, y: -22.262497}
+        - {x: -89.78656, y: -26.134552}
+        - {x: -66.636475, y: -26.073853}
+        - {x: -66.66815, y: -39.2153}
+        - {x: -47.311157, y: -39.114838}
+        - {x: -47.014404, y: -26.194794}
+        - {x: -41.218445, y: -26.30304}
+        - {x: -41.074158, y: -22.204636}
+        - {x: -37.281433, y: -22.119644}
+        - {x: -37.332825, y: -19.234177}
+        - {x: -33.735413, y: -19.339111}
+        - {x: -33.72119, y: -39.20291}
+        - {x: -14.324829, y: -39.152466}
+        - {x: -14.242554, y: -26.282547}
+        - {x: -8.328674, y: -26.181656}
+        - {x: -8.220886, y: -22.216599}
+        - {x: -5.242737, y: -22.278442}
+        - {x: -5.130249, y: -19.209183}
+        - {x: -1.2851562, y: -19.118515}
+        - {x: -1.1593018, y: -16.230515}
+        - {x: 1.6672363, y: -16.154282}
+        - {x: 1.7096558, y: -12.121979}
+        - {x: 5.3583984, y: -12.276688}
+        - {x: 5.4491577, y: -16.187653}
+        - {x: 8.356567, y: -16.143097}
+        - {x: 8.393311, y: -39.141403}
+        - {x: 24.704346, y: -39.148132}
+        - {x: 24.643188, y: -35.163162}
+        - {x: 27.70227, y: -35.164368}
+        - {x: 27.724304, y: -32.1821}
+        - {x: 30.819946, y: -32.229965}
+        - {x: 30.783386, y: -29.205704}
+        - {x: 33.79309, y: -29.259583}
+        - {x: 33.79724, y: -26.298004}
+        - {x: 56.75238, y: -26.318207}
+        - {x: 56.78015, y: -22.175415}
+        - {x: 60.780457, y: -22.24173}
+        - {x: 60.755432, y: -19.231369}
+        - {x: 64.34039, y: -19.24318}
+        - {x: 64.33429, y: -26.228073}
+        - {x: 99.715454, y: -26.314102}
+        - {x: 99.75696, y: -3.1860504}
+        - {x: 102.745605, y: -3.1693726}
+        - {x: 102.84253, y: 0.70210266}
+        - {x: 110.24957, y: 0.646225}
+        - {x: 110.25598, y: -16.287048}
+        - {x: 113.20654, y: -16.247253}
+        - {x: 113.24524, y: -19.443756}
+        - {x: 116.17456, y: -19.39949}
+        - {x: 116.1142, y: -22.347977}
+        - {x: 119.16345, y: -22.387802}
+        - {x: 119.127014, y: -26.626831}
+        - {x: 145, y: -26.43187}
+        - {x: 144.56, y: 39.160004}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b28671fb2629e49ae8236ea0c58a28
+      internalID: 1917078119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_30
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 335
+        width: 85
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: -221}
+        - {x: -42.26935, y: -220.87152}
+        - {x: -42.5, y: -261}
+        - {x: 42.5, y: -261}
+        - {x: 42.5, y: -220.8718}
+        - {x: 39.5, y: -221}
+        - {x: 39.5, y: 261}
+        - {x: -39.5, y: 261}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e876619abd3a14b41bae2062c34cb8ee
+      internalID: 496418788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1671739195_kalix-club-p-fon-floppi-berd-oboi-67_31
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 515
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24d0f055201c044987a98fe4c8bb20f
+      internalID: 1483739551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e830eb147aa81f43b54ea8026387281
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_0: 4682493139907373992
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_1: 877976307
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_10: -849131227
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_11: -244627934
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_12: 482325365
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_13: -22684369
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_14: -1041708432
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_15: 2014773727
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_16: -1363290294
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_17: 398614385
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_18: 1067703183
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_19: 2056634628
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_2: 181869525
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_20: -1984584609
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_21: 1403251951
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_22: 448330707
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_23: -1175464128
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_24: 1970198116
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_25: 2122090519
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_26: 1499163200
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_27: -2037446413
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_28: 283886998
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_29: 1917078119
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_3: -1095719581
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_30: 496418788
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_31: 1483739551
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_4: -1354849087
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_5: 2114364898
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_6: -1967363818
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_7: -145658439
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_8: 503059631
+      1671739195_kalix-club-p-fon-floppi-berd-oboi-67_9: 462333025
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

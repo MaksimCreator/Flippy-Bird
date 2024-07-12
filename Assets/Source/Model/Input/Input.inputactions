@@ -1,0 +1,45 @@
+{
+    "name": "Input",
+    "maps": [
+        {
+            "name": "Bird",
+            "id": "2eb50e14-3c8f-45ef-8eb5-3d84a00bf811",
+            "actions": [
+                {
+                    "name": "Moveming",
+                    "type": "Button",
+                    "id": "71a47644-21ef-4dfd-be40-944bf97e1664",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c1ae75db-b989-4b9c-a4df-05a6a9e89251",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Moveming",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8507cee3-f58b-42ff-95c2-b66501442e6e",
+                    "path": "<Touchscreen>/touch0/tap",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Moveming",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
